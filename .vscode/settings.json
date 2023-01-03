@@ -1,0 +1,10 @@
+{
+  "editor.fontSize": 17,
+  "editor.tabSize": 2,
+  "editor.colorDecorators": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.suggest.showColors": true,
+  "editor.bracketPairColorization.enabled": true,
+  "scss.lint.argumentsInColorFunction": "error",
+  "scss.lint.hexColorLength": "error"
+}
