@@ -61,6 +61,8 @@ ORDER: Base + typography > general layout + grid > layout > components
 
 html {
   font-size: 62.5%;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
 }
 @media (max-width: 75em) {
   html {
@@ -81,7 +83,6 @@ html {
 body {
   box-sizing: border-box;
   padding: 3rem;
-  scroll-behavior: smooth;
 }
 @media (max-width: 56.25em) {
   body {
