@@ -1,10 +1,12 @@
 {
-  "editor.fontSize": 17,
-  "editor.tabSize": 2,
+  "editor.fontSize": 16,
+  "editor.tabSize": 4,
   "editor.colorDecorators": true,
   "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
   "editor.suggest.showColors": true,
   "editor.bracketPairColorization.enabled": true,
   "scss.lint.argumentsInColorFunction": "error",
-  "scss.lint.hexColorLength": "error"
+  "scss.lint.hexColorLength": "error",
+  "editor.guides.indentation": true,
+  "files.autoSave": "onFocusChange"
 }
